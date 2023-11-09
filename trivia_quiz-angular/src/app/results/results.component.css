@@ -1,0 +1,21 @@
+h2{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  
+h1{margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: left;
+  }
+
+  body {margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    text-align: left;
+  }
+  .questionHeader{
+    font-weight: bold;
+  }
