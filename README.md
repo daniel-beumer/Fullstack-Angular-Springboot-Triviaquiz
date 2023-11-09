@@ -19,6 +19,8 @@ Spring-Boot 3.1.4 (Spring REST/ Spring Data JPA)
 
 Hibernate
 
+Maven
+
 # Configuring Trivia API
 
 Before using the trivia API in your Spring Boot application, you need to configure the API with the following settings: 5 questions and the multiple-choice category. Follow these steps:
