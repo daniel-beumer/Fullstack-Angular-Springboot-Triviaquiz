@@ -4,14 +4,16 @@ Full-stack Web Application using Angular & SpringBoot (RestFull API).
 
 # Used Technologies & Tools:
 
-Front-end:
+# Front-end:
 
 TypeScript
+
+HTML
 
 Angular 16
 
 
-Back-end
+# Back-end
 
 Java 17
 
