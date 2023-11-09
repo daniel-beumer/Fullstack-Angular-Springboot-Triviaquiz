@@ -10,6 +10,8 @@ TypeScript
 
 HTML
 
+CSS
+
 Angular 16
 
 
